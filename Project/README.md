@@ -12,8 +12,8 @@ Currently, dorm deskies keep track of packages using a Google Sheets spreadsheet
 
 Mercury Package Management will improve this process on two fronts: the deskie interface and the recipient interface. Deskies will be able to quickly enter package information with the assitance of automation from the app, and recipients will be able to view packages that are available for pickup. Instead of relying on a spreadsheet that has no quick way to lookup and enter data, a database will be used to store package information and status, as well as information about the building's current residents.  
 
-Client application: [github.com/calvin-cs262-fall2020-teamA/Client](https://github.com/calvin-cs262-fall2020-teamA/Client)  
-Data service: [github.com/calvin-cs262-fall2020-teamA/Service](https://github.com/calvin-cs262-fall2020-teamA/Service)
+Client application: [github.com/calvin-cs262-fall2020-teamA/Client](https://github.com/emily-costa/Mercury/tree/master/Client)  
+Data service: [github.com/calvin-cs262-fall2020-teamA/Service](https://github.com/emily-costa/Mercury/tree/master/Service)
 
 References to additional files:
 - [Deployment Diagram](https://github.com/emily-costa/Mercury/blob/master/Project/DeploymentDiagram.md)
