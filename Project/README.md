@@ -19,7 +19,7 @@ References to additional files:
 - [Deployment Diagram](https://github.com/emily-costa/Mercury/blob/master/Project/DeploymentDiagram.md)
 - [Domain Model](https://github.com/emily-costa/Mercury/blob/master/Project/assets/DomainModel.png)
 - [User Interface Model](https://github.com/emily-costa/Mercury/blob/master/Project/assets/UIModel.png)
-- [Usability Test](https://github.com/emily-costa/Mercury/blob/master/Project/assets/UsabilityTest.md)
+- [Usability Test](https://github.com/emily-costa/Mercury/blob/master/Project/UsabilityTest.md)
 - [Usability Test Report](https://github.com/emily-costa/Mercury/blob/master/Project/UsabilityReport.md)
 - [Demo Video](https://www.youtube.com/watch?v=0Eu9VR7sskQ&feature=youtu.be) 
 
