@@ -1,0 +1,2 @@
+web: node mercuryService.js
+direct: node mercuryDirect.js

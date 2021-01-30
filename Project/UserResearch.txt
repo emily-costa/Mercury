@@ -1,0 +1,25 @@
+Emily Costa
+I asked my RAs and other residents in my building, and I came up with
+some sample user stories. 
+
+
+As a Deskie/RA I sould be able to...
+    - Quickly enter the information describing the package
+    - Send an automated notification email when finished logging the package 
+      (My RA showed me the google form they use for logging the 
+      packages, and they actually have to find and type out the 
+      student's entire Calvin email themsleves, which is time consuming and 
+      it also creates room for human error) 
+    - Receive an automatic identification number to put on the box
+      (After logging the box, the RA has to find an id # that isn't 
+      already being used, which is also time consuming)
+    - View a history of picked up packages (sometimes students forget they have
+      already picked up a package)
+    - View a history of who logged and handed out a package
+
+
+As a resident I should be able to...
+    - Receive a notification that my package is at the front desk 
+    - Receive a notificaiton that my package has been picked up
+    - See a history of the packages I have received and picked up
+    - See the desk hours for that specific day

@@ -1,0 +1,140 @@
+<html>
+<head>
+    <title>Package Email Notification</title>
+    <style type="text/css">
+        .email-background{
+        background-color: rgb(255, 255, 255);
+        padding: 15px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.2);
+        margin: 15px;
+        border-radius: 15px;
+        }
+        .email-header{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: rgb(196, 191, 191);
+        padding: 15px;
+        justify-content: center;
+        text-align: center;
+        border-radius: 15px 15px 0px 0px;
+        }
+        .email-header h1{
+        color:black;
+        font-family: 'Trebuchet MS', sans-serif;
+        font-size: 5vw;
+        align-self: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        }
+        .email-header h2{
+        color:black;
+        font-family: 'Trebuchet MS', sans-serif;
+        font-size: 5vw;
+        align-self: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        }
+        img{
+        height: 20%;
+        width: auto;
+        padding: 0px;
+        }
+        .email-container{
+        background-color: rgba(102,0,0, 0.3);
+        padding: 15px;
+        border-radius: 0px 0px 15px 15px;
+        }
+        .description{
+        text-align: left;
+        font-family: 'Trebuchet MS', sans-serif;
+        font-size: 4vw;
+        }
+        .description p{
+        padding-left: 5%;
+        padding-right: 5%;
+        }
+        .desk-hours{
+        text-align: center;
+        font-family: 'Trebuchet MS', sans-serif;
+        font-size: 3vw;
+        }
+        table{
+        padding-top: 0px;
+        margin-top: 3%;
+        margin-left:auto;
+        margin-right:auto;
+        text-align: left;
+        }
+        .sunday{
+        text-align: center;
+        }
+        td{
+        padding: 0px 0;
+        padding-right: 2px;
+        padding-left: 5px;;
+        font-size: 3vw;
+        }
+    </style>
+</head>
+<body>
+
+<div class="email-background">
+
+    <div class="email-header">
+        <img src="https://i.ibb.co/6Fw26dW/logo.png"/>
+        <h1>Your package has arrived!</h1>
+        <h2>ID: <span id="val-desk-id">{deskid}</span></h2>
+    </div>
+
+    <div class="email-container">
+        <div class="description">
+            <p id="intropar">Hi <span id="val-name">{name}</span>,
+                A package has been delivered to the <b id="val-desk-code">{desk}</b> desk. Show this email to the deskie to pick up your package.
+            </p>
+            <p id="description">Description: <span id="val-id">{id}</span>, <span id="val-size">{size}</span> <span id="val-color">{color}</span> <span id="val-type">{type}</span></p>
+        </div>
+        <div class="desk-hours">
+            <table>
+                <tr>
+                    <td colspan="2" class="sunday">Desk Hours:</td>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>4-6, 9-10</td>
+                </tr>
+                <tr>
+                    <td>Tuesday</td>
+                    <td>4-6</td>
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td>4-6, 9-10</td>
+                </tr>
+                <tr>
+                    <td>Thursday</td>
+                    <td>4-6, 9-10</td>
+                </tr>
+                <tr>
+                    <td>Friday</td>
+                    <td>4-6, 9-10</td>
+                </tr>
+                <tr>
+                    <td>Ssatruday</td>
+                    <td>9-10</td>
+                </tr>
+                <tr>
+                    <td>Sunday</td>
+                    <td>Closed</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+</body>
+</html>
