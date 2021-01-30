@@ -16,14 +16,15 @@ Client application: [github.com/calvin-cs262-fall2020-teamA/Client](https://gith
 Data service: [github.com/calvin-cs262-fall2020-teamA/Service](https://github.com/calvin-cs262-fall2020-teamA/Service)
 
 References to additional files:
-- [Deployment Diagram](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/DeploymentDiagram.png)
-- [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/DomainModel.png)
-- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/UIModel.png)
-- [Usability Test](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/UsabilityTest.md)
-- [Usability Test Report](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/UsabilityReport.md)
+- [Deployment Diagram](https://github.com/emily-costa/Mercury/blob/master/Project/DeploymentDiagram.md)
+- [Domain Model](https://github.com/emily-costa/Mercury/blob/master/Project/DomainModel.png)
+- [User Interface Model](https://github.com/emily-costa/Mercury/blob/master/Project/UIModel.png)
+- [Usability Test](https://github.com/emily-costa/Mercury/blob/master/Project/UsabilityTest.md)
+- [Usability Test Report](https://github.com/emily-costa/Mercury/blob/master/Project/UsabilityReport.md)
+- [Demo Video](https://www.youtube.com/watch?v=0Eu9VR7sskQ&feature=youtu.be) 
 
 ## Our Team
 
-![Team Photo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/GroupATeamPhoto.jpg)
+![Team Photo](https://github.com/emily-costa/Mercury/blob/master/Project/GroupATeamPhoto.jpg)
 
 Jake Boers || Emily Costa || Ben DeVries || Andrew Feikema || Coleman Ulry || Jack Westel  
