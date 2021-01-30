@@ -1,4 +1,4 @@
-![Mercury logo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/logo.png)
+![Mercury logo](https://github.com/emily-costa/Mercury/blob/master/Project/assets/logo.png)
 
 # Project Mercury
 
