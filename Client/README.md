@@ -5,7 +5,9 @@ Mercury Package Manager is an app for Calvin University aiding in logging packag
 I designed and coded the majority of the front-end UI design. I also worked on connecting the front-end to the back-end data service, so you can create, read, and update package data.
 
 Learn more about our project here: [github.com/emily-costa/Mercury/blob/master/Project/](https://github.com/emily-costa/Mercury/blob/master/Project/)
+
 Demo Video: [youtube.com/watch?v=0Eu9VR7sskQ&feature=youtu.be](https://www.youtube.com/watch?v=0Eu9VR7sskQ&feature=youtu.be)
+
 Original group project repo: [github.com/calvin-cs262-fall2020-teamA/Project](https://github.com/calvin-cs262-fall2020-teamA/Project)
 
 ### Dependancies:
