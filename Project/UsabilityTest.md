@@ -1,6 +1,6 @@
 # Usability Test: Mercury Package Manager
 ## Team A | Fall 2020
-### Jake Boers | Emily Costa | Ben DeVries | Andrew Feikema | Coleman Ulry | and Jack Westel
+### Tests Facilitated by: Emily Costa and Coleman Ulry
 
 ## Introduction
 Thank you for agreeing to do this usability test for our new app, Mercury. We would love to see first-hand how our users navigate around the app. Our goal is to make our app as user-friendly as possible.
