@@ -25,6 +25,6 @@ References to additional files:
 
 ## Our Team
 
-![Team Photo](https://github.com/emily-costa/Mercury/blob/master/Project/GroupATeamPhoto.jpg)
+![Team Photo](https://github.com/emily-costa/Mercury/blob/master/Project/assets/GroupATeamPhoto.jpg)
 
 Jake Boers || Emily Costa || Ben DeVries || Andrew Feikema || Coleman Ulry || Jack Westel  
